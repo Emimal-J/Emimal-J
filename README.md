@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-<img align= "right" alt="GIF" width="500px" height="280px" src="https://github.com/Emimal-J/Emimal-J/blob/main/Images/profile.gif">
+<img align= "right" alt="GIF" width="480px" height="280px" src="https://github.com/Emimal-J/Emimal-J/blob/main/Images/profile.gif">
 
 - 🔭 I’m currently working on Data analytics projects.
 - 🌱 I’m currently learning Advanced Excel.
@@ -19,12 +19,12 @@
 <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/python-original.svg" alt="python" width="40" height="40"/> &nbsp;
 <img alt="jupyter"  src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"width="50" height="40" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/><br>
+<img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="power bi" width="40" height="40"/>
+<img src="https://brandeps.com/logo-download/M/Microsoft-Excel-logo-vector-01.svg" alt="Excel" width="50" height="40"/><br>
     
 <br>
-<img height="27" src="https://img.shields.io/badge/Emimal's GitHub Status --lightgreen.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
-<p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Emimal-J&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=HOLA! 👏&layout=compact" alt="Emiaml"/>
+<img height="30" src="https://img.shields.io/badge/Emimal's GitHub Status- 🤓-lightgreen.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
+<p>
 </p>
 <p>&nbsp;
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Emimal-J&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
@@ -37,12 +37,6 @@
 </p>
 </details>
     
-<details>
-  <summary>Most used languages ❤️ </summary>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emimal-J&title_color=FF69B4&custom_title=Most Used Languages :D &layout=compact&theme=highcontrast&langs_count=10" alt="Emimal-J" /></p>
-</details> 
-    
-<br>
 <h4 align="left">
 Show ❤️ By Starring My <a href='https://github.com/Emimal-J?tab=repositories'>
 <img align='center'  height="22" src="https://img.shields.io/badge/Repos!😊-lightpink.svg?&style=for-the-badge&logo=Emimal-J&logoColor=blue" />
